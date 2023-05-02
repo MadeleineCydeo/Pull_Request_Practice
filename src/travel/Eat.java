@@ -6,4 +6,6 @@ public class Eat {
 
     //Korea
 
+    //Japan
+
 }
